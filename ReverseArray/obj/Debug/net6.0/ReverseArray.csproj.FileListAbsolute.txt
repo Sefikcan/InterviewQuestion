@@ -1,0 +1,15 @@
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\bin\Debug\net6.0\ReverseArray.exe
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\bin\Debug\net6.0\ReverseArray.deps.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\bin\Debug\net6.0\ReverseArray.runtimeconfig.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\bin\Debug\net6.0\ReverseArray.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\bin\Debug\net6.0\ref\ReverseArray.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\bin\Debug\net6.0\ReverseArray.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.AssemblyReference.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ref\ReverseArray.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\ReverseArray\obj\Debug\net6.0\ReverseArray.genruntimeconfig.cache

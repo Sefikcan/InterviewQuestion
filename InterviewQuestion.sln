@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatingChar", "RepeatingC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstUniqueChar", "FindFirstUniqueChar\FindFirstUniqueChar.csproj", "{AD8922B9-F1A9-4D36-AAEB-54EF39839379}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "CountingSort\CountingSort.csproj", "{EE9A20FA-30AB-44F1-9107-20146363C5DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{3B5E6EC1-DDEE-4DDF-8EEF-F7199D20A133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{AD8922B9-F1A9-4D36-AAEB-54EF39839379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD8922B9-F1A9-4D36-AAEB-54EF39839379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD8922B9-F1A9-4D36-AAEB-54EF39839379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9A20FA-30AB-44F1-9107-20146363C5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9A20FA-30AB-44F1-9107-20146363C5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9A20FA-30AB-44F1-9107-20146363C5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9A20FA-30AB-44F1-9107-20146363C5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5E6EC1-DDEE-4DDF-8EEF-F7199D20A133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5E6EC1-DDEE-4DDF-8EEF-F7199D20A133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5E6EC1-DDEE-4DDF-8EEF-F7199D20A133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5E6EC1-DDEE-4DDF-8EEF-F7199D20A133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
