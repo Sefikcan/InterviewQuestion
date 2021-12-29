@@ -1,0 +1,15 @@
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\bin\Debug\net6.0\MergeSort.exe
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\bin\Debug\net6.0\MergeSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\bin\Debug\net6.0\ref\MergeSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.csproj.AssemblyReference.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache

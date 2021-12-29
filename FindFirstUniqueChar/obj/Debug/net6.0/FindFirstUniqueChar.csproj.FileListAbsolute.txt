@@ -1,0 +1,15 @@
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\bin\Debug\net6.0\FindFirstUniqueChar.exe
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\bin\Debug\net6.0\FindFirstUniqueChar.deps.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\bin\Debug\net6.0\FindFirstUniqueChar.runtimeconfig.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\bin\Debug\net6.0\FindFirstUniqueChar.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\bin\Debug\net6.0\ref\FindFirstUniqueChar.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\bin\Debug\net6.0\FindFirstUniqueChar.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.csproj.AssemblyReference.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\ref\FindFirstUniqueChar.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\FindFirstUniqueChar\obj\Debug\net6.0\FindFirstUniqueChar.genruntimeconfig.cache

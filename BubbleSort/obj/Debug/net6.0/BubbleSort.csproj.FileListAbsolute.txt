@@ -1,0 +1,15 @@
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\bin\Debug\net6.0\ref\BubbleSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+D:\WorkSpaces\Back-end\Other\InterviewQuestion\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
